@@ -9,3 +9,18 @@ War file included to make thing a bit easier
 ### Endpoint
 
 `/api/entity`
+
+
+## Assertion
+
+Here is the expectation of the response
+
+Expected:
+```json
+{"name": "this is simple entity"}
+```
+
+Actual:
+```json
+{}
+```
